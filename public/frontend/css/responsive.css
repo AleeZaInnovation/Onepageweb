@@ -1,0 +1,1779 @@
+/* responsive for mobile device start */
+  /* Small devices (landscape phones, 576px and up) */
+ /* @media (max-width: 575.98px) { */
+/* .bnner_modal {
+	padding: 0px 10px;
+} */
+/* .text_modal p {
+	font-size: 14px;
+	line-height: 24px;
+	height: 242px;
+	overflow-y: auto;
+	padding: 0 2px;
+}
+
+input[type=text], select {
+    border: 1px solid #14284b;
+}
+input[type=email], select {
+    border: 1px solid #14284b;
+}
+input[type=password], select {
+    border: 1px solid #14284b;
+}
+textarea{
+    border: 1px solid #14284b !important;
+    height: 180px;
+
+}
+.text_modal {
+	padding: 2px 14px;
+}
+.contact_name textarea{
+      height: 100px;
+}
+.sub_buttn{
+    padding: 11px 0px;
+}
+
+.modal-fullscreen-sm-down {
+	width: 94vw;
+	max-width: none;
+	height: 50% ;
+	margin: 0 auto;
+    top: 10px;
+}
+.clo_mo_foo{
+    font-size: 12px;
+}
+.us_mo_fot {
+	padding: 3px 7px;
+	font-size: 15px;
+}
+.cont_bttn {
+	margin-right: 0px;
+}
+.form-label{
+	margin-right: 160px;
+}
+.sub_formss {
+	margin-bottom: -37px;
+	margin-right: 170px;
+}
+.contact_title {
+	font-size: 12px;
+	color: #fff;
+} */
+
+/* .modal-body{
+    line-height: 15px;
+} */
+/* .bnner_modal input {
+	padding: 0 ;
+}
+.banner_modal_head{
+    padding: 0;
+} */
+
+/* .header_part {
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.header_btn a {
+	padding: 4px 11px;
+	font-size: 9px;
+	line-height: 12px;
+	margin-left: -17px;
+}
+.logo {
+    margin-left: 31px;
+    margin-top: 40px;
+    padding: 0px 27px 0px 0px;
+}
+.banner_text h3 {
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 33px;
+}
+.banner_text a {
+    font-size: 12px;
+    margin-left: -13px;
+    padding: 10px 23px;
+}
+.section_two{
+    text-align: center;
+}
+.solution_text {
+	margin-left:0px;
+}
+.technology_pic {
+	 width: 297px;
+}
+.imgg{
+    display: block !important;
+}
+.covid_text{
+    text-align: center;
+}
+.covid_text p{
+    padding: 0px 11px;
+    font-size: 16px;
+    text-align: center;
+}
+.footer_text_part {
+	text-align: center;
+	margin-bottom: 34px;
+}
+.banner_text a {
+	margin-left: -26px;
+	padding: 10px 13px;
+} */
+/* Covid nineteen part  */
+/* .covid_phone{
+    text-align:center;
+} */
+/* Covid nineteen end */
+/* Our End-to-End Solution start */
+/* .overlay {
+	background: #14284b;
+	clip-path: none;
+	padding: 130px 0px;
+}
+.solution_text h3{
+    line-height: 45px;
+
+}
+.solution_phone{
+    text-align: center;
+}
+.solution_text h4 {
+	font-size: 24px;
+	font-weight:700;
+}
+.solution_text{
+    text-align: center;
+}
+.covid_img_dui {
+    display: block !important;
+} */
+/* Our End-to-End Solution end */
+/* Our Products Solution start */
+/* .products{
+    text-align: center;
+}
+.products p{
+    text-align: center;
+    font-size: 15px;
+}
+
+.servicess {
+	margin-right: 0px;
+}
+.covid_text a{
+    margin-bottom: 20px;
+}
+.product_pic{
+    text-align: center;
+} */
+/* Our Products Solution end */
+/* servicess part end */
+/* .overlay_add {
+
+	clip-path: none;
+	padding: 50px 0px;
+}
+.servicess{
+    text-align: center;
+}
+.servicess h3{
+    margin-left: 0px;
+    text-align: center;
+}
+.servicess a{
+    padding: 0px 31px;
+}
+/* servicess Part end */
+/* .tecnologys{
+    text-align: center;
+}
+.tecnologys p {
+	font-size: 16px;
+}
+.footer_client  {
+    display: block !important;
+}
+.covid_pic img {
+	width: 308px;
+	height: 259px;
+}
+.footer_top{
+    display: block !important;
+}
+.footer_top  h6{
+    margin-bottom: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+.footer_text_part_one{
+    text-align: center;
+}
+.footer_text_part_two{
+    text-align: center;
+}
+.footer_text_part_three{
+    text-align: center;
+}
+.footer_text_part_four{
+    text-align: center;
+}
+.footer_logo img{
+     width: 100%;
+    margin-left: 0px;
+}
+.foote_social_link {
+    justify-content:center !important;
+}
+.footer_last_text{
+    display: block !important;
+}
+.footer_last_text{
+    font-size: 15px;
+}
+.footer_last_text a{
+    font-size: 14px;
+    line-height: 21px;
+}
+.footer_top h6 {
+	margin-top: -52px;
+}
+.covid_virus {
+	padding-bottom: 30px;
+}
+.banner_text a {
+	margin-left: -4px;
+	padding: 8px 9px;
+	font-size: 11px;
+}
+.footer_logo p {
+	width: 297px;
+}
+.footer_text_part input {
+	padding: 5px 87px 10px 5px;
+}
+.footer_text_part textarea {
+	padding: 5px 90px 10px 5px;
+}
+.footer_last_text p{
+	font-size: 14px;
+}
+.footer_last_text a{
+	font-size: 13px;
+}   */
+/* Covid nineteen part  */
+/* Covid nineteen end */
+
+/* .modal-body {
+    padding: 0px 15px;
+}
+} */
+/* responsive for Mobile device end */
+
+
+/* responsive for Medium device end */
+/* @media (min-width: 576px) and (max-width: 767px){
+.lebe_title{
+    margin-right: 350px;
+}
+.solution_text {
+	margin-left:0px;
+}
+    .products p {
+	font-size: 14px;
+	padding: 0px 32px;
+}
+.products a {
+	padding: 7px 15px;
+	margin-bottom: 47px;
+}
+.footer_logo{
+    margin-left: -76px;
+    margin-top: -26px;
+}
+
+.footer_text_part {
+    margin: 0 !important;
+}
+
+.footer_text_part h5 {
+    margin: 0 !important;
+}
+
+.footer_text_part_one{
+    margin-left: -64px;
+}
+.footer_text_part_four{
+    margin-left: 49px;
+}
+.footer_text_part_three{
+    margin-left: 26px;
+}
+.footer {
+	padding-top: 21px;
+}
+.footer_top h6 {
+	margin-bottom: -16px;
+}
+.covid_virus {
+	padding-bottom: 40px;
+}
+.footer_last_text{
+	font-size: 12px;
+	letter-spacing: 1px;
+
+}
+.technology_pic {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.technology_pic img{
+    text-align: center;
+
+}
+.footer_text_part_one {
+	margin-left: -20px;
+}
+.footer_text_part{
+    text-align: center;
+}
+.header_btn a {
+    margin-left: 10px;
+    line-height: 12px;
+    font-size: 10px;
+}
+.solution_text h3 {
+	font-size: 20px;
+	margin-left: -167px;
+}
+.solution_text p {
+	font-size: 13px;
+	margin-top: -26px;
+	margin-left: -168px;
+}
+.logo {
+margin-left: 124px;
+margin-top: 20px;
+}
+.solution_text{
+    text-align: center;
+}
+.solution_text h3{
+    line-height: 40px;
+}
+.solution_phone{
+    text-align: center;
+}
+.covid_img_dui{
+    text-align: center;
+}
+.products p{
+    font-size: 14px;
+}
+.servicess p {
+	width: 240px;
+	margin-left: -26px;
+	font-size: 12px;
+	padding: 0px 79px 0px 22px;
+	text-align: center;
+}
+.servicess h3{
+   font-size: 30px;
+}
+.overlay_add {
+	padding: 48px 0px;
+}
+.covid_pic img {
+	margin-top: 28px;
+}
+.overlay {
+	padding: 59px 0px;
+    clip-path: none;
+}
+.footer_logo {
+	margin-left: -19px;
+}
+.products p {
+	padding: 0px -2px;
+}
+.last_footer_border{
+    text-align: center;
+}
+.footer_last_text{
+    display: block !important;
+}
+
+.covid_img_dui  {
+    display: block  !important;
+}
+.footer_last_text a {
+	font-size: 10px;
+	font-weight: 400;
+	color: #000;
+}
+.solution_text {
+	margin-left: -80px;
+}
+.rotated {
+	margin-top: 40px;
+}
+.overlay_add {
+	clip-path: none;
+	background: #cc4c2a;
+}
+textarea.form-control{
+    height: 100px;
+}
+} */
+/* large deviece  */
+/* @media (min-width: 768px) and (max-width: 1199.98px) {
+.lebe_title{
+    margin-right: 190px;
+}
+textarea.form-control{
+height: 100px;
+}
+.footer_logo img {
+	width: 333px;
+	margin-left: 171px;
+}
+
+.footer_text_part{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer_text_part h3 {
+	margin-left: 0px;
+}
+.footer_text_part textarea {
+	padding: 5px 103px 10px 5px;
+}
+.overlay_add {
+	clip-path: none;
+	background: #cc4c2a;
+	padding: 105px 0px 70px 0px;
+}
+.servicess {
+margin-right: 0px;
+margin-left: -30px;
+}
+.header_btn a{
+	line-height: 20px;
+}
+.servicess p {
+	padding: 0px 199px 0px 1px;
+	text-align: center;
+}
+.covid_text a {
+	margin-bottom: 31px;
+}
+.footer_privacy{
+    display: block !important;
+}
+.solution_text{
+    text-align: center;
+}
+.solution_text h3{
+    line-height: 50px;
+    margin-left: -139px;
+}
+.solution_text p {
+	font-size: 15px;
+	line-height: 30px;
+	margin-left: -153px;
+}
+.products p {
+	font-size: 17px;
+	line-height: 26px;
+	padding: 0px 60px;
+	text-align: center;
+}
+.logo {
+margin-left: 230px;
+margin-top: 30px;
+}
+.header_part {
+margin-right: 30px;
+}
+.covid_phone{
+    margin-top: 50px;
+}
+.solution_phone{
+    text-align: center;
+}
+.solution_phone h3{
+    font-size: 30px;
+    font-weight: 700;
+} */
+/* .servicess p{
+    width: 400px;
+} */
+/* .last_footer_border{
+    text-align: center;
+}
+.footer_last_text{
+    display: block !important;
+}
+.covid_img_dui {
+	display: block !important;
+}
+.product_pic{
+    text-align: center;
+    margin-top: 30px;
+} */
+
+/* .servicess p {
+	width: 301px;
+} */
+/* .technology_pic{
+    text-align: center;
+
+}
+.covid_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.technology_pic {
+	width: 659px;
+	height: 368px;
+}
+} */
+/* ================================================================ */
+
+/* @media only screen and (max-width: 600px) {
+  .modal-body {
+    padding: 0 10px;
+  }
+} */
+
+/* ========================================index two responsive css ======================== */
+/* responsive for mobile device start */
+  /* Small devices (landscape phones, 576px and up) */
+ @media (max-width: 575.98px) {
+.navbar-brand img{
+width: 100px;
+}
+.text_modal p {
+	height: 277px;
+}
+.bnner_modal {
+	padding: 0px 10px;
+}
+.cont_bttn {
+	margin-right: 0px;
+}
+.form-label{
+	margin-right: 160px;
+
+}
+.sub_formss {
+	margin-bottom: -37px;
+	margin-right: 170px;
+}
+.contact_title {
+	font-size: 12px;
+	color: #fff;
+}
+
+.modal-body{
+    line-height: 15px;
+}
+.bnner_modal input {
+	padding: 0 ;
+}
+.banner_modal_head{
+    padding: 0;
+}
+
+.header_part {
+    margin-right: 6px;
+    margin-left: 6px;
+}
+.header_btn a {
+	padding: 3px 4px;
+	font-size: 9px;
+	line-height: 12px;
+	margin-left: -20px;
+}
+.logo {
+    margin-left: 31px;
+    margin-top: 40px;
+    padding: 0px 27px 0px 0px;
+}
+.banner_text h3 {
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 33px;
+}
+.banner_text a {
+    font-size: 12px;
+    margin-left: -13px;
+    padding: 10px 23px;
+}
+.section_two{
+    text-align: center;
+}
+.solution_text {
+	margin-left:0px;
+}
+.technology_pic {
+	 width: 297px;
+}
+.imgg{
+    display: block !important;
+}
+.covid_text{
+    text-align: center;
+}
+.covid_text p{
+    padding: 0px 11px;
+    font-size: 16px;
+    text-align: center;
+}
+.footer_text_part {
+	text-align: center;
+	margin-bottom: 34px;
+}
+.banner_text a {
+	margin-left: -26px;
+	padding: 10px 13px;
+}
+/* Covid nineteen part  */
+.covid_phone{
+    text-align:center;
+}
+/* Covid nineteen end */
+/* Our End-to-End Solution start */
+.overlay {
+	background: #14284b;
+	clip-path: none;
+	padding: 130px 0px;
+}
+.solution_text h3{
+    line-height: 45px;
+
+}
+.solution_phone{
+    text-align: center;
+}
+.solution_text h4 {
+	font-size: 24px;
+	font-weight:700;
+}
+.solution_text{
+    text-align: center;
+}
+.covid_img_dui {
+    display: block !important;
+}
+/* Our End-to-End Solution end */
+/* Our Products Solution start */
+.products{
+    text-align: center;
+}
+.products p{
+    text-align: center;
+    font-size: 15px;
+}
+
+.servicess {
+	margin-right: 0px;
+}
+.covid_text a{
+    margin-bottom: 20px;
+}
+.product_pic{
+    text-align: center;
+}
+/* Our Products Solution end */
+/* servicess part end */
+.overlay_add {
+
+	clip-path: none;
+	padding: 50px 0px;
+}
+.servicess{
+    text-align: center;
+}
+.servicess h3{
+    margin-left: 0px;
+    text-align: center;
+}
+.servicess a{
+    padding: 0px 31px;
+}
+/* servicess Part end */
+.tecnologys{
+    text-align: center;
+}
+.tecnologys p {
+	font-size: 16px;
+}
+.footer_client  {
+    display: block !important;
+}
+.covid_pic img {
+	width: 308px;
+	height: 259px;
+}
+.footer_top{
+    display: block !important;
+}
+.footer_top  h6{
+    margin-bottom: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+.footer_text_part_one{
+    text-align: center;
+}
+.footer_text_part_two{
+    text-align: center;
+}
+.footer_text_part_three{
+    text-align: center;
+}
+.footer_text_part_four{
+    text-align: center;
+}
+.footer_logo img {
+	width: 60%;
+	margin-left: 0px;
+}
+.foote_social_link {
+    justify-content:center !important;
+}
+.footer_last_text{
+    display: block !important;
+}
+.footer_last_text{
+    font-size: 15px;
+}
+.footer_last_text a{
+    font-size: 14px;
+    line-height: 21px;
+}
+.footer_top h6 {
+	margin-top: -52px;
+}
+.covid_virus {
+	padding-bottom: 30px;
+}
+.banner_text a {
+	margin-left: -4px;
+	padding: 8px 9px;
+	font-size: 11px;
+}
+.footer_logo p {
+	width: 297px;
+}
+.footer_text_part input {
+	padding: 5px 87px 10px 5px;
+}
+.footer_text_part textarea {
+	padding: 5px 90px 10px 5px;
+}
+.footer_last_text p{
+	font-size: 14px;
+}
+.footer_last_text a{
+	font-size: 13px;
+}
+/* Covid nineteen part  */
+/* Covid nineteen end */
+/* =============== new ================== */
+.accounting_part {
+    display: block !important;
+}
+.accounting_img {
+	width: 100%;
+}
+.accounting_text {
+	width: 100%;
+	margin-top: 52px;
+    display: flex;
+    justify-content: center;
+}
+.accounting_text_paragraph p {
+	/* width: 300px; */
+	text-align: center;
+	font-size: 15px;
+	padding: 0px 6px;
+}
+/* Doctors part are start  */
+.doctors {
+	padding-top: 39px;
+}
+.doctors_part{
+    display: block !important;
+}
+.doctors_text {
+	width: 100%;
+	padding: 44px 15px;
+}
+.doctors_img {
+	width: 100%;
+}
+.doctors_text h3 {
+	color: #02071A;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 43px;
+	text-align: center;
+}
+.btn_part:hover .doctors_btn{
+    border: 1px solid #F2A12B;
+}
+
+.doctors_btn {
+	padding: 13px 22px;
+	width: 148px;
+	font-size: 12px;
+	height: 41px;
+}
+ .icontact{
+    margin-left: 6px;
+ }
+ .ilearn{
+    margin-left: 6px;
+ }
+.doctors_btn_two {
+	padding: 13px 22px;
+	width: 148px;
+	font-size: 12px;
+	height: 41px;
+     border: 1px solid #F2A12B;
+}
+
+.acconting_color h3{
+    color: #fff;
+}
+/* .doctors_text h3 {
+	font-size: 38px;
+	line-height: 48px;
+	text-align: center;
+	font-weight: 500;
+} */
+.doctors_text_part {
+	width: 100%;
+	display: flex;
+	/* align-items: center; */
+    justify-content: center;
+    padding: 0;
+}
+
+/* input[type="text"], select {
+	border: 1px solid #14284b;
+}
+textarea {
+	border: 1px solid #14284b !important;
+} */
+/* Doctors part are end */
+/* contact part are start */
+.contact_part {
+    display: block !important;
+}
+.contact {
+	padding: 16px 0px;
+}
+.contact_info {
+	background: #F6F6F6;
+	width: 100%;
+}
+.contact_social {
+	margin-top: 81px;
+}
+.round_img {
+	position: absolute;
+	bottom: 21px;
+	left: -5px;
+	width: 45px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 17px;
+	line-height: 10px;
+	padding: 15px 0px;
+	text-align: left;
+
+}
+.navbar-light .navbar-toggler {
+	color: transparent;
+	 border-color: gray;
+	font-size: 15px;
+}
+.navbar-collapse {
+	margin: 0px -13px;
+	background: #fff;
+	padding: 20px 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 20px;
+	margin-left: 0px;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+   color: #fff;
+   background: #000;
+}
+.others_img {
+	display: none;
+}
+.contact_form {
+	width: 100%;
+	border: 2px solid #F6F6F6;
+	padding: 20px;
+}
+.footer {
+	padding-top: 10px;
+}
+.other_logo {
+	width: 100%;
+}
+.footer_logo p {
+	color: #02071A;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+.contact_social {
+	margin-top: 25px;
+}
+.footer_text_part {
+	text-align: start;
+	margin-bottom: 34px;
+  margin-left: 10px;
+}
+.contact_info_text {
+	padding: 9px;
+}
+.covid_text h3 {
+	width: 100%;
+	margin-top: -120px;
+    font-size: 32px;
+	font-weight: 400;
+	line-height: 38px;
+}
+.footer_text_part h5 {
+	line-height: 36px;
+}
+.doctors_text p {
+	font-size: 15px;
+	padding: 20px 7px;
+	text-align: center;
+}
+.contact_head h3 {
+	font-weight: 400;
+	padding-bottom: 12px;
+	font-size: 35px;
+}
+
+.docts_send_msg {
+	font-size: 11px;
+	padding: 9px 0px;
+	width: 122px;
+}
+.btn_part {
+	margin-left: 2px;
+    display: flex;
+    justify-content: center;
+}
+/* .contact_info_text {
+	padding: 12px;
+} */
+/* contact part are end */
+}
+/* responsive for Mobile device end */
+
+/* ==============================================================================   2nd   ============= */
+/* responsive for Medium device end */
+@media (min-width: 576px) and (max-width: 767px){
+.navbar-brand img {
+	width: 143px;
+}
+.other_footer h3 {
+	margin-top: 0px;
+}
+.footer_logo h4 {
+	padding-top: 12px;
+	padding-left: 6px;
+}
+.others_img img {
+	bottom: -3px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 17px;
+	line-height: 10px;
+	padding: 15px 27px;
+	text-align: left;
+
+}
+
+.navbar-collapse {
+	margin: 0px -13px;
+	background: #fff;
+	padding: 20px 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 20px;
+	margin-left: 0px;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+   color: #fff;
+   background: #000;
+}
+.accounting_text_paragraph h3 {
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.lebe_title{
+    margin-right: 350px;
+}
+.covid_text h3 {
+	width: 100%;
+}
+.doctors_text_part {
+	width: 100%;
+}
+.solution_text {
+	margin-left:0px;
+}
+    .products p {
+	font-size: 14px;
+	padding: 0px 32px;
+}
+.products a {
+	padding: 7px 15px;
+	margin-bottom: 47px;
+}
+.footer_logo{
+    margin-left: -76px;
+    margin-top: -26px;
+}
+
+.footer_text_part {
+    margin: 0 !important;
+}
+
+.footer_text_part h5 {
+    margin: 0 !important;
+}
+
+.footer_text_part_one{
+    margin-left: -64px;
+}
+.footer_text_part_four{
+    margin-left: 49px;
+}
+.footer_text_part_three{
+    margin-left: 26px;
+}
+.footer {
+	padding-top: -1px;
+}
+.contact_form_item {
+	padding-bottom: 0px;
+}
+.footer_top h6 {
+	margin-bottom: -16px;
+}
+.covid_virus {
+	padding-bottom: 40px;
+}
+.footer_last_text{
+	font-size: 12px;
+	letter-spacing: 1px;
+
+}
+.technology_pic {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.technology_pic img{
+    text-align: center;
+
+}
+.footer_text_part_one {
+	margin-left: -20px;
+}
+.footer_text_part{
+    /* text-align: center; */
+}
+.header_btn a {
+	margin-left: -4px;
+	line-height: 14px;
+	font-size: 10px;
+	padding: 5px 19px;
+}
+.solution_text h3 {
+	font-size: 20px;
+	margin-left: -167px;
+}
+.solution_text p {
+	font-size: 13px;
+	margin-top: -26px;
+	margin-left: -168px;
+}
+.logo {
+margin-left: 124px;
+margin-top: 20px;
+}
+.solution_text{
+    text-align: center;
+}
+.solution_text h3{
+    line-height: 40px;
+}
+.solution_phone{
+    text-align: center;
+}
+.covid_img_dui{
+    text-align: center;
+}
+.products p{
+    font-size: 14px;
+}
+.servicess p {
+	width: 240px;
+	margin-left: -26px;
+	font-size: 12px;
+	padding: 0px 79px 0px 22px;
+	text-align: center;
+}
+.servicess h3{
+   font-size: 30px;
+}
+.overlay_add {
+	padding: 48px 0px;
+}
+.covid_pic img {
+	margin-top: 28px;
+}
+.overlay {
+	padding: 59px 0px;
+    clip-path: none;
+}
+
+.footer_logo {
+	margin-left: -6px;
+	/* margin-top: 0px; */
+}
+.products p {
+	padding: 0px -2px;
+}
+.last_footer_border{
+    text-align: center;
+}
+.footer_last_text{
+    display: block !important;
+}
+
+.covid_img_dui  {
+    display: block  !important;
+}
+.footer_last_text a {
+	font-size: 10px;
+	font-weight: 400;
+	color: #000;
+}
+.solution_text {
+	margin-left: -80px;
+}
+.rotated {
+	margin-top: 40px;
+}
+.overlay_add {
+	clip-path: none;
+	background: #cc4c2a;
+}
+.contact_info_text {
+	padding: 30px;
+	/* text-align: center; */
+}
+.location h5 {
+	padding-top: 15px;
+}
+/* ===================================================== */
+.accounting_part {
+    display: block !important;
+}
+.accounting_img {
+	width: 100%;
+}
+.accounting_text {
+	width: 100%;
+	margin-top: 52px;
+}
+.accounting_text_paragraph h3 {
+	text-align: center;
+	font-size: 32px;
+	margin-top: -106px;
+}
+.accounting_text_paragraph p {
+	padding: 0px 18px;
+	text-align: center;
+}
+/* Doctors part are start  */
+.doctors {
+	padding-top: 39px;
+}
+.doctors_part{
+    display: block !important;
+}
+/* .doctors_text {
+	width: 100%;
+	padding: 15px;
+} */
+.btn_part{
+    margin-bottom: 20px;
+}
+.doctors_img {
+	width: 100%;
+}
+.doctors_text h3 {
+	color: #02071A;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 64px;
+	/* width: 551px; */
+	text-align: center;
+    padding-top: 22px;
+}
+.doctors_text_part{
+    display: flex;
+    justify-content: center;
+}
+.doctors_text p {
+	padding: 24px 0px;
+	text-align: center;
+	/* width: 479px; */
+}
+.contact_head h3 {
+	font-weight: 500;
+	font-size: 36px;
+}
+.contact_social {
+	margin-top: 0px;
+}
+/* input[type="text"], select {
+	border: 1px solid #14284b;
+}
+input[type="email"], select {
+	border: 1px solid #14284b;
+}
+input[type="number"], select {
+	border: 1px solid #14284b;
+} */
+/* .contact_form_item textarea{
+   border: 1px solid #14284b !important;
+} */
+/* .textarea{
+
+} */
+.contact_form {
+	width: 100%;
+	border: 2px solid #F6F6F6;
+	padding: 20px;
+}
+.btn_part:hover .doctors_btn{
+    border: 1px solid #F2A12B;
+}
+
+.doctors_btn {
+	padding: 13px 22px;
+	width: 148px;
+	font-size: 12px;
+	height: 41px;
+}
+ .icontact{
+    margin-left: 6px;
+ }
+ .ilearn{
+    margin-left: 6px;
+ }
+.doctors_btn_two {
+	padding: 13px 22px;
+	width: 148px;
+	font-size: 12px;
+	height: 41px;
+     border: 1px solid #F2A12B;
+}
+
+.btn_part {
+	/* margin-left: 83px; */
+    display: flex;
+    /* justify-content: center; */
+}
+.doctors_text_part {
+    display: flex;
+    justify-content: center;
+}
+.acconting_color {
+   padding-bottom:50px ;
+}
+.acconting_color h3{
+    color: #fff;
+}
+.acconting_color h3 {
+	color: #fff;
+	/* width: 500px; */
+	font-size: 35px;
+    padding-top: 30px;
+}
+/* Doctors part are end */
+/* contact part are start */
+.contact_part {
+    display: block !important;
+}
+.contact {
+	padding: 0px 0px;
+}
+.footer {
+	padding-top: 1px;
+}
+.contact_info {
+	background: #F6F6F6;
+	width: 100%;
+}
+.round_img img {
+	right: 12%;
+	bottom: 4%;
+}
+
+.docts_send_msg {
+	font-size: 14px;
+	padding: 11px 26px;
+	width: 150px;
+}
+.location h6 {
+	padding-left: 0px;
+}
+.contact_social a {
+	padding-left: 5px;
+    font-size: 16px;
+}
+}
+/* ==============================================================3nd tablet===================== */
+/* large deviece  */
+@media (min-width: 768px) and (max-width: 991.98px) {
+.navbar-brand img {
+	width: 163px;
+}
+.others_img img {
+	bottom: 0px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 17px;
+	line-height: 10px;
+	padding: 15px 27px;
+	text-align: left;
+
+}
+.navbar-collapse {
+	margin: 0px -13px;
+	background: #fff;
+	padding: 20px 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 20px;
+	margin-left: 0px;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+   color: #fff;
+   background: #000;
+}
+.accounting_text_paragraph h3 {
+	font-size: 30px;
+	font-weight: 400;
+}
+    .lebe_title{
+        margin-right: 190px;
+    }
+.footer_logo img {
+	width: 333px;
+	margin-left: -9px;
+}
+
+.footer_text_part{
+    text-align: center;
+    margin-top: 0px;
+}
+.footer_text_part h3 {
+	margin-left: 0px;
+}
+.footer_text_part textarea {
+	padding: 5px 103px 10px 5px;
+}
+.overlay_add {
+	clip-path: none;
+	background: #cc4c2a;
+	padding: 105px 0px 70px 0px;
+}
+.other_logo {
+	width: 176px;
+}
+.last_footer_border {
+	margin-top: 20px;
+}
+.servicess {
+margin-right: 0px;
+margin-left: -30px;
+}
+.header_btn a{
+	line-height: 20px;
+}
+.servicess p {
+	padding: 0px 199px 0px 1px;
+	text-align: center;
+}
+.covid_text a {
+	margin-bottom: 31px;
+}
+.footer_privacy{
+    display: block !important;
+}
+.solution_text{
+    text-align: center;
+}
+.solution_text h3{
+    line-height: 50px;
+    margin-left: -139px;
+}
+.solution_text p {
+	font-size: 15px;
+	line-height: 30px;
+	margin-left: -153px;
+}
+.products p {
+	font-size: 17px;
+	line-height: 26px;
+	padding: 0px 60px;
+	text-align: center;
+}
+.logo {
+margin-left: 230px;
+margin-top: 30px;
+}
+.header_part {
+margin-right: 30px;
+}
+.covid_phone{
+    margin-top: 50px;
+}
+.solution_phone{
+    text-align: center;
+}
+.solution_phone h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+/* .servicess p{
+    width: 400px;
+} */
+.last_footer_border{
+    text-align: center;
+}
+.footer_last_text{
+    display: block !important;
+}
+.covid_img_dui {
+	display: block !important;
+}
+.product_pic{
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* .servicess p {
+	width: 301px;
+} */
+.technology_pic{
+    text-align: center;
+
+}
+.covid_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.technology_pic {
+	width: 659px;
+	height: 368px;
+}
+
+/* ===================================================== */
+/* Acconting part are start  */
+
+.accounting_part {
+    display: block !important;
+}
+.accounting_img {
+	width: 100%;
+}
+.accounting_text {
+	width: 100%;
+	margin-top: 52px;
+}
+.accounting_text_paragraph h3{
+    text-align: center;
+}
+.accounting_text_paragraph p {
+	text-align: center;
+	padding: 8px 27px;
+}
+/* Acconting part are end  */
+/* Doctors part are start  */
+.doctors {
+	padding-top: 39px;
+}
+.doctors_part{
+    display: block !important;
+}
+/* .doctors_text {
+	width: 100%;
+	padding: 15px;
+} */
+.doctors_img {
+	width: 100%;
+}
+.doctors_img img{
+	width: 100%;
+}
+/* .doctors_text h3 {
+	color: #02071A;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 46px;
+	line-height: 64px;
+	width: 551px;
+	text-align: center;
+} */
+.btn_part {
+   display: flex;
+   justify-content: center;
+   margin-left: 0px;
+}
+.doctors_text{
+    padding: 50px 0;
+}
+.doctors_text h3{
+	width: 100%;
+}
+.doctors_text p {
+	padding: 33px 8px;
+	line-height: 30px;
+	text-align: center;
+    font-size: 15px;
+}
+
+.footer {
+	padding-top: 1px;
+}
+.doctors_btn {
+	padding: 20px 45px;
+	width: 194px;
+	font-size: 14px;
+}
+ .icontact{
+    margin-left: 6px;
+ }
+ .ilearn{
+    margin-left: 1px;
+ }
+.doctors_text_part {
+	width: 100%;
+    text-align: center;
+}
+.doctors_btn_two {
+	font-size: 15px;
+	padding: 22px 36px;
+}
+/* .doctors_text {
+	padding: 46px;
+} */
+.acconting_color h3 {
+	color: #fff;
+	/* width: 592px; */
+	font-size: 42px;
+}
+/* Doctors part are end */
+/* contact part are start */
+.contact_part {
+    display: block !important;
+}
+.contact {
+	padding: 1px 0px;
+}
+.contact_info {
+	background: #F6F6F6;
+	width: 100%;
+}
+.contact_social {
+	margin-top: 9px;
+    margin-left: -9px;
+}
+/* input[type="number"], select {
+	border: 2px solid #E0DEE1;
+} */
+.docts_send_msg {
+	font-size: 14px;
+	padding: 10px 16px;
+	width: 148px;
+	border: 2px solid #F2A12B;
+}
+/* .round_img {
+	bottom: 41px;
+	left: -30px;
+	width: 106px;
+} */
+/* .others_img {
+	position: absolute;
+	bottom: 782px;
+	left: 608px;
+} */
+.others_img {
+	bottom: 56%;
+	left: 80%;
+}
+.covid_text h3 {
+	width: 100%;
+	margin-top: -121px;
+}
+.contact_form {
+	width: 100%;
+	border: 2px solid #F6F6F6;
+	padding: 20px;
+}
+}
+/* ================================================================ */
+@media (min-width: 992px) and (max-width: 1199px) {
+ .navbar-brand img {
+	width: 137px;
+}
+.doctors_text h3 {
+	font-size: 37px;
+	text-align: left;
+    line-height: 48px;
+}
+.doctors_text p {
+	padding: 14px 0px;
+	width: 360px;
+}
+ .icontact{
+    margin-left: 6px;
+ }
+ .ilearn{
+    margin-left: 3px;
+ }
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 12px;
+	padding-top: 0px;
+}
+    .covid_text h3 {
+	padding-top: 0px;
+}
+.covid_text p {
+    color: #211B1B;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 36px;
+    width: 434px;
+}
+ .btn_part {
+	margin-left: 0px;
+}
+
+ .contact {
+	padding: 42px 60px;
+}
+.contact_social {
+	margin-top: 0px;
+}
+.doctors_img img {
+	height: 495px;
+	object-fit: cover;
+}
+.acconting_color h3{
+    color: #fff;
+}
+/* .doctors_text {
+    padding: 43px;
+} */
+.contact_info {
+    background: #F6F6F6;
+    width: 39%;
+}
+.contact_form {
+    width: 58%;
+    border: 2px solid #F6F6F6;
+    padding: 20px;
+}
+.others_img img {
+  width: 100px;
+	bottom: -51px;
+}
+
+.round_img img {
+width: 80px;
+bottom: -25px;
+}
+.header_btn a {
+	padding: 16px 4px;
+	font-size: 12px;
+}
+.header_btn {
+	margin-left: 0px;
+}
+.logo {
+	margin-left: 18px;
+	margin-top: -73px;
+}
+
+
+}
+@media only screen and (max-width: 600px) {
+  .modal-body {
+    padding: 0 10px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 14px;
+}
+ .icontact{
+    margin-left: 6px;
+ }
+ .ilearn{
+    margin-left: 3px;
+ }
+.btn_part {
+	margin-left: 80px;
+}
+ .doctors_text p {
+	font-size: 16px;
+	line-height: 28px;
+	padding: 15px 5px;
+}
+.doctors_text h3 {
+	font-size: 47px;
+}
+}
+
+
+
+
